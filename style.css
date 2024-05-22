@@ -31,7 +31,15 @@ blockquote {
 blockquote p {
     margin : 30px;
     text-align: center;
-    font-style:italic;
+    font-style: italic;
 
+}
+
+.villagers {
+    color: hsla(117, 32%, 44%, 1);
+}
+
+.farmer {
+    color: hsla(319, 32%, 44%, 1);
 }
 
