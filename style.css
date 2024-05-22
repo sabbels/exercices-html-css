@@ -1,5 +1,37 @@
 body {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 12px;
-    color: red;
+    font-size: 16px;
+    color: hsla(239, 100%, 17%, 1);
+    max-width: 90%;
+    margin: 2% 15% ;
+    background-color: bisque;
+    background: linear-gradient(0deg, #5742bd, #7cc9d1);
 }
+
+a:link {
+    color: hsla(232, 100%, 62%, 1);
+}
+
+a:visited {
+    color : hsla(284, 28%, 62%, 1);
+}
+
+a:hover {
+    color : hsla(336, 100%, 45%, 1);
+}
+
+blockquote {
+
+    font-size: 160%;
+    margin: 3% 80px ;
+    background-color: hsla(284, 3%, 96%, 1);
+    border: 3px solid firebrick;
+}
+
+blockquote p {
+    margin : 30px;
+    text-align: center;
+    font-style:italic;
+
+}
+
